@@ -1,0 +1,1 @@
+This project is made from HTML.CSS and JS.It can be used as counter project to count the no. of passengers in the bus or any other public transport.This has a increment button which is used when a passenger has entered and when we click on save button it will show on the screen.after saving the counter will count from 0.
